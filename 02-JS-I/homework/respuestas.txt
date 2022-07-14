@@ -1,0 +1,10 @@
+ * Variables:
+ Son palabras que se reservan para que tomen un valor determinado y poder utilizarlo más adelante
+ * Strings:
+ Son un tipo de dato. Los strings son cadenas de texto. Para poder utilizarlo tienen que estar entre comillas.
+ * Funciones (argumentos, `return`):
+ Es un tipo de objeto llamado objeto invocable. A partir de estas se toman las variables creadas para poder calcularlas. Al definir una función se le asigna un nombre y luego se indican los argumentos que utilizará. Con el comando return se le está pidiendo al editor que devuelva un resultado para esa función.
+ * Declaraciones `if`:
+ Es un condicional. A través de este se le pide al editor que si una variable toma determinado valor devuelva una respuesta definida
+ * Valores booleanos (`true`, `false`):
+ Provienen de la logica de boole e indica que una variable puede tomar dos valores.
