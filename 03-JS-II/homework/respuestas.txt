@@ -1,0 +1,5 @@
+* `for`:
+El for es un statement que se utiliza para incrementar el valor de una variable mientras se cumpla determinada condición. Está compuesto por la definición de la variable, la condición que debe cumplirse, y el incremento. Mientras que la condición sea true, la variable se seguirá incrementando.
+
+* `&&`, `||`, `!`:
+Son operadores booleanos, Y, O, y negación. A través de estos operadores se determinará si la unión de dos valores son true o false. La doble negación sirve para probar si un valor es considerado true o false sin ser comparado con otro valor.
