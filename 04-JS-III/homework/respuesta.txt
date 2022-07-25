@@ -1,0 +1,2 @@
+* Arrays
+	Los arrays son listados que permiten guardar todo tipo de datos, independientemente de su tipo, en un orden determinado. A partir de estos arreglos se los puede recorrer, utilizar sus elementos para diferentes operaciones, extraer o agregar elementos.
