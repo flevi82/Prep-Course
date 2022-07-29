@@ -1,0 +1,21 @@
+    * Objetos
+Los objetos son contenedores de datos similares a los arreglos. A diferencia de los arreglos, pueden contener mucha información sobre una sola cosa.
+
+
+	* Propiedades
+
+    Los arreglos guardan sus elementos en índices, en cambio los objetos los guardan en pares clave. El key será el rótulo de uno de los elementos a guardar, y el value será el valor que ese key toma.
+    Estos keys son propiedades que pueden ser llamadas, tal como el length es una propiedad.
+    Pueden tanto agregarse como quitarse propiedades dentro del objeto
+
+	* Métodos
+
+    Los métodos son funciones guardadas dentro de un objeto. Por estar dentro del objeto, en lugar de llamarlas función, se las llama método.
+
+	* Bucle `for…in`
+    Como los objetos no guardan sus elementos en indices para iterar el for no puede utilizarse igual que con los arreglos. El for...in se utiliza con otra estructura y muestra los key y values de las distintas iteraciones.
+
+	* Notación de puntos vs notación de corchetes
+
+    La notación de puntos es un método más agil que la notación de corchetes. En la notación de puntos se llama al objeto, junto con un punto y el key, y esto devuelve el value.
+    La notación de corchetes es más similar al array e implica abrir el corchete, la comilla y puede generar errores. Usualmente los corchetes se utilizan para variables.
