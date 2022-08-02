@@ -1,0 +1,4 @@
+* `prototype`
+Los prototipos son métodos (funciones) aplicados a clases. Se utilizan para que estos métodos puedan ser aplicados a todos los objetos que componen la clase.
+* _Constructors_ (de Clases)
+Los constructores de clases son plantillas que permiten crear una estructura determinada para los objetos. En el constructor estarán determinadas las propiedades de los objetos que compongan la clase.
