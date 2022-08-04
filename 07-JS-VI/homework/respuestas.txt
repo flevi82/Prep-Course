@@ -1,0 +1,2 @@
+Funciones Callback:
+Son funciones en las cuales en su argumento se invoca a otra función. Por convención se utiliza cb como argumento cuando estamos utilizando callbacks
